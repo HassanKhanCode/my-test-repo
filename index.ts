@@ -1,4 +1,3 @@
-let greet =  "Hello";
 let greet =  'Hello';
 
 let userName = 'Sir Ameen';
